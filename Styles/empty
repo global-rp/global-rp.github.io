@@ -1,0 +1,178 @@
+body{
+    background-image: url(https://bh-rp.com/style/images/bg.png);
+    background-size: cover;
+    
+}
+
+.header{
+    position: absolute;
+    width: 1140px;
+    height: 88px;
+    left: 20%;
+    top: 12px;
+}
+
+.logo_header{
+    border-radius: 100%;
+    width: 100px;
+    height: 80px;
+    margin: 5px auto 5px 50px;
+}
+
+.header_text{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    position: absolute;
+    z-index: 10;
+    top: 9%;
+    left: 269px;
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+li{
+    margin-left: 75px;
+}
+
+.img_telegram{
+    margin-right: 5px;
+    width: 20px;
+}
+
+.promocode{
+    padding: 4px;
+    position: absolute;
+    top: 20%;
+    left: 917px;
+    width: 158px;
+    height: 39px;
+    background: linear-gradient(90deg, #B50707 0%, #FF4307 100%);
+    border-radius: 50px;
+}
+
+.wh_color{
+    color: rgb(255, 255, 255); /* Цвет ссылок */
+   }
+   .wh_color:visited {
+    color: #ffffff; /* Цвет посещенных ссылок */
+   }
+   .wh_color:active {
+    color: #ffffff; /* Цвет активных ссылок */
+   }
+
+.prom{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    margin-left: 25%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.promocode_window{
+    top: 35%;
+    left: 35%;
+    position: absolute;
+    color: rgb(212, 22, 22);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 70px;
+}
+
+.main_text{
+    position: absolute;
+left: 186px;
+right: 547px;
+top: 100px;
+bottom: 0px;
+}
+
+.gl_main_text{
+    position: absolute;
+    width: auto;
+    height: 100px;
+    left: 45px;
+    top: 90px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 103px;
+    line-height: 100px;
+    display: flex;
+    align-items: center;
+    color: #FF1F00;
+}
+
+.gl_main_text_comment{
+    position: absolute;
+    width: auto;
+    height: 174px;
+    left: 45px;
+    top: 261px;
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 53px;
+    line-height: 58px;
+    /* or 109% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+
+.download_apk{
+    position: absolute;
+width: 320px;
+height: 60px;
+left: 45px;
+top: 550px;
+
+background: linear-gradient(90deg, #B50707 0%, #FF8420 100%);
+border-radius: 50px;
+}
+
+.android_logo{
+    position: absolute;
+width: 22.36px;
+height: 24.98px;
+left: calc(50% - 22.36px/2 - 56.59px);
+top: calc(50% - 24.98px/2 - 0.01px);
+}
+
+.txt_download{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+    color: white;
+    margin-left: 128px;
+}
+
+.img_seekn{
+    position: absolute;
+    width: 333px;
+    height: 333px;
+    left: 888px;
+    top: 216px;
+}
+.give_promo {
+    top: 55%;
+    left: 35%;
+    margin: auto;
+    position: absolute;
+    color: rgb(204, 204, 204);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+}
